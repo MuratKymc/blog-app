@@ -1,4 +1,4 @@
-# Blog Site : HTML, CSS and Bootstrapt
+# Blog Site : HTML, CSS and Bootstrap
 
 #
 ![image](https://github.com/MuratKymc/blog-uygulamas-/assets/99142274/f8af88ed-7e6e-4085-8c8f-30d27cd3c106)
